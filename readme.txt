@@ -7,7 +7,7 @@ Git has a mutable index called stage.
 Creating a new branch is quick
 dev
 fixed bug
+<<<<<<< HEAD
 dev1
 deving
 deved
-
