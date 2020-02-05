@@ -8,3 +8,6 @@ Creating a new branch is quick
 dev
 fixed bug
 dev1
+deving
+deved
+
