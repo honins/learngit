@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 333
 Creating a new branch is quick
 dev
+fixed bug
